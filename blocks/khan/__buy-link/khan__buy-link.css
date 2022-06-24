@@ -1,0 +1,9 @@
+.khan__buy-link{
+  -ms-flex-item-align: start;
+      align-self: flex-start;
+  margin-left: 48px;
+  text-decoration: none;
+  color: #2f80ed;
+  line-height: 42px;
+  font-size: 30px;
+}
