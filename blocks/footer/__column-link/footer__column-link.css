@@ -1,4 +1,4 @@
-.footer__column-link{
+.footer__column-link {
   display: block;
   text-decoration: none;
   color: white;
@@ -7,6 +7,6 @@
   font-size: 18px;
 }
 
-.footer__column-link:first-of-type{
+.footer__column-link:first-of-type {
   margin-top: 0;
 }

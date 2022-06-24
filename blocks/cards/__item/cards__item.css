@@ -1,8 +1,8 @@
-.cards__item{
+.cards__item {
   width: 240px;
 }
 
-.cards__item:nth-child(3n+2){
+.cards__item:nth-child(3n+2) {
   margin-left: 100px;
   margin-right: 100px;
 }

@@ -1,4 +1,4 @@
-.animated-link{
+.animated-link {
   opacity: 1;
   -webkit-transition: opacity .25s ease-in;
   -o-transition: opacity .25s ease-in;
@@ -6,6 +6,6 @@
   cursor: pointer;
 }
 
-.animated-link:hover{
+.animated-link:hover {
   opacity: 0.4;
 }
