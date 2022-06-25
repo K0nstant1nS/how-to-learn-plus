@@ -1,8 +1,10 @@
 .khan__book-pic {
   width: 620px;
+  height: 608px;
   -o-object-fit: cover;
   object-fit: cover;
   -o-object-position: left top;
   object-position: left top;
 }
+/*Первоначально я задал khan__book-container стиль min-height: 608px и это исправляло отображение в IE, где не работает object-fit и object-position, не понимаю зачем это менять?*/
 /*Свойства object-fit и object-position не поддерживаются IE, но мне посоветовали их использовать после прошлого код-ревью
