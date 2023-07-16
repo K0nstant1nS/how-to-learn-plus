@@ -1,0 +1,13 @@
+{
+  "name": "how-to-learn-plus",
+  "version": "1.0.0",
+  "homepage": "https://github.com/K0nstant1nS/how-to-learn-plus",
+  "description": "***\r ## Учебный проект от Yandex Practicum, однастраничный сайт с заметками о способах обучения.\r ***\r Использованы исключительно **HTML** и **CSS**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
